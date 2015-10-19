@@ -1,0 +1,32 @@
+#include<stdio.h>
+#include<rpc/rpc.h>
+#include"search.h"
+
+int main(int argc, char * argv[]){
+
+
+	CLIENT* clnt;
+	char*	server;
+	double*	res;
+	char *	msg;
+	
+	server = argv[1];
+	msg	= argv[2];
+	
+	
+	clnt = clnt_create(server, SEARCH, S, "udp");
+	
+	res = searchx_1(&msg, clnt);
+
+	if(*res ==1)
+	printf("found");
+	else	
+	printf("nah");
+
+	clnt_destroy(clnt);
+	
+	return 0;
+
+
+
+}

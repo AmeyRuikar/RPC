@@ -1,0 +1,24 @@
+
+
+const MAXL=  100;
+
+typedef string str<MAXL>;
+
+struct proc{
+
+	str 	processes[10];
+	int	no;
+	int	proc_id[10];
+	
+
+};
+
+program PROCESS{
+
+	version PROC{
+	
+		proc remote_procs(int) = 1;
+	
+	} = 1;
+
+} = 45000;

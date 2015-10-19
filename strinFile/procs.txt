@@ -1,0 +1,11 @@
+  PID TTY          TIME CMD
+ 4507 pts/0    00:00:00 bash
+ 4886 pts/0    00:00:00 gdb
+ 4902 pts/0    00:00:00 gdb
+ 4904 pts/0    00:00:00 server
+ 4911 pts/0    00:00:00 gdb
+ 4913 pts/0    00:00:00 server
+ 4955 pts/0    00:00:00 server
+ 5029 pts/0    00:00:00 server
+ 5031 pts/0    00:00:00 sh
+ 5032 pts/0    00:00:00 ps

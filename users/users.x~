@@ -1,0 +1,8 @@
+
+struct	users{
+
+	char	user[400];
+	char	logins[400];
+	int	total;
+	
+};

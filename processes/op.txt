@@ -1,0 +1,215 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.0  33872  3180 ?        Ss   22:03   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    22:03   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    22:03   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/u16:0]
+root         7  0.0  0.0      0     0 ?        S    22:03   0:00 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/0]
+root         9  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/1]
+root        10  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/2]
+root        11  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/3]
+root        12  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/4]
+root        13  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/5]
+root        14  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/6]
+root        15  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuos/7]
+root        16  0.0  0.0      0     0 ?        S    22:03   0:00 [rcu_bh]
+root        17  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/0]
+root        18  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/1]
+root        19  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/2]
+root        20  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/3]
+root        21  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/4]
+root        22  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/5]
+root        23  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/6]
+root        24  0.0  0.0      0     0 ?        S    22:03   0:00 [rcuob/7]
+root        25  0.0  0.0      0     0 ?        S    22:03   0:00 [migration/0]
+root        26  0.0  0.0      0     0 ?        S    22:03   0:00 [watchdog/0]
+root        27  0.0  0.0      0     0 ?        S    22:03   0:00 [watchdog/1]
+root        28  0.0  0.0      0     0 ?        S    22:03   0:00 [migration/1]
+root        29  0.0  0.0      0     0 ?        S    22:03   0:00 [ksoftirqd/1]
+root        30  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/1:0]
+root        31  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/1:0H]
+root        32  0.0  0.0      0     0 ?        S    22:03   0:00 [watchdog/2]
+root        33  0.0  0.0      0     0 ?        S    22:03   0:00 [migration/2]
+root        34  0.0  0.0      0     0 ?        S    22:03   0:00 [ksoftirqd/2]
+root        36  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/2:0H]
+root        37  0.0  0.0      0     0 ?        S    22:03   0:00 [watchdog/3]
+root        38  0.0  0.0      0     0 ?        S    22:03   0:00 [migration/3]
+root        39  0.0  0.0      0     0 ?        S    22:03   0:00 [ksoftirqd/3]
+root        40  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/3:0]
+root        41  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/3:0H]
+root        42  0.0  0.0      0     0 ?        S<   22:03   0:00 [khelper]
+root        43  0.0  0.0      0     0 ?        S    22:03   0:00 [kdevtmpfs]
+root        44  0.0  0.0      0     0 ?        S<   22:03   0:00 [netns]
+root        45  0.0  0.0      0     0 ?        S<   22:03   0:00 [writeback]
+root        46  0.0  0.0      0     0 ?        S<   22:03   0:00 [kintegrityd]
+root        47  0.0  0.0      0     0 ?        S<   22:03   0:00 [bioset]
+root        48  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/u17:0]
+root        49  0.0  0.0      0     0 ?        S<   22:03   0:00 [kblockd]
+root        50  0.0  0.0      0     0 ?        S<   22:03   0:00 [ata_sff]
+root        51  0.0  0.0      0     0 ?        S    22:03   0:00 [khubd]
+root        52  0.0  0.0      0     0 ?        S<   22:03   0:00 [md]
+root        53  0.0  0.0      0     0 ?        S<   22:03   0:00 [devfreq_wq]
+root        54  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/0:1]
+root        56  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/2:1]
+root        58  0.0  0.0      0     0 ?        S    22:03   0:00 [khungtaskd]
+root        59  0.0  0.0      0     0 ?        S    22:03   0:00 [kswapd0]
+root        60  0.0  0.0      0     0 ?        SN   22:03   0:00 [ksmd]
+root        61  0.0  0.0      0     0 ?        SN   22:03   0:00 [khugepaged]
+root        62  0.0  0.0      0     0 ?        S    22:03   0:00 [fsnotify_mark]
+root        63  0.0  0.0      0     0 ?        S    22:03   0:00 [ecryptfs-kthrea]
+root        64  0.0  0.0      0     0 ?        S<   22:03   0:00 [crypto]
+root        76  0.0  0.0      0     0 ?        S<   22:03   0:00 [kthrotld]
+root        78  0.1  0.0      0     0 ?        S    22:03   0:01 [kworker/3:1]
+root        79  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/1:1]
+root        80  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/2:2]
+root        99  0.0  0.0      0     0 ?        S<   22:03   0:00 [deferwq]
+root       100  0.0  0.0      0     0 ?        S<   22:03   0:00 [charger_manager]
+root       150  0.0  0.0      0     0 ?        S<   22:03   0:00 [firewire]
+root       152  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_0]
+root       153  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_1]
+root       154  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_2]
+root       155  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_3]
+root       156  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_4]
+root       157  0.0  0.0      0     0 ?        S    22:03   0:00 [scsi_eh_5]
+root       161  0.0  0.0      0     0 ?        S<   22:03   0:00 [firewire_ohci]
+root       164  0.0  0.0      0     0 ?        S    22:03   0:00 [kworker/u16:7]
+root       177  0.0  0.0      0     0 ?        S    22:03   0:00 [jbd2/sda4-8]
+root       178  0.0  0.0      0     0 ?        S<   22:03   0:00 [ext4-rsv-conver]
+root       331  0.0  0.0  19472   656 ?        S    22:03   0:00 upstart-udev-bridge --daemon
+root       337  0.0  0.0  51712  1984 ?        Ss   22:03   0:00 /lib/systemd/systemd-udevd --daemon
+root       379  0.0  0.0      0     0 ?        S    22:03   0:00 [irq/47-mei_me]
+root       393  0.0  0.0      0     0 ?        S<   22:03   0:00 [cfg80211]
+root       398  0.0  0.0      0     0 ?        S<   22:03   0:00 [kworker/u17:1]
+root       421  0.0  0.0      0     0 ?        S<   22:03   0:00 [kvm-irqfd-clean]
+root       423  0.0  0.0      0     0 ?        S    22:03   0:00 [wl_event_handle]
+root       493  0.0  0.0  15392   760 ?        S    22:03   0:00 upstart-socket-bridge --daemon
+root       495  0.0  0.0  23420  1156 ?        Ss   22:03   0:00 rpcbind
+root       500  0.0  0.0      0     0 ?        S<   22:03   0:00 [applesmc-led]
+root       554  0.0  0.0      0     0 ?        S<   22:03   0:00 [hci0]
+root       556  0.0  0.0      0     0 ?        S<   22:03   0:00 [hci0]
+statd      559  0.0  0.0  21544  1416 ?        Ss   22:03   0:00 rpc.statd -L
+root       590  0.0  0.0      0     0 ?        S<   22:03   0:00 [hd-audio0]
+root       682  0.0  0.0      0     0 ?        S<   22:03   0:00 [rpciod]
+root       706  0.0  0.0      0     0 ?        S<   22:03   0:00 [nfsiod]
+message+   749  0.0  0.0  40388  2628 ?        Ss   22:04   0:00 dbus-daemon --system --fork
+root       778  0.0  0.1 330228  4412 ?        Ssl  22:04   0:00 /usr/sbin/ModemManager
+root       780  0.0  0.0  19680  2312 ?        Ss   22:04   0:00 /usr/sbin/bluetoothd
+root       794  0.0  0.0      0     0 ?        S<   22:04   0:00 [krfcommd]
+root       807  0.0  0.0  23480   416 ?        Ss   22:04   0:00 rpc.idmapd
+root       810  0.0  0.0  15408   636 ?        S    22:04   0:00 upstart-file-bridge --daemon
+syslog     817  0.0  0.0 255840  1288 ?        Ssl  22:04   0:00 rsyslogd
+avahi      887  0.0  0.0  32348  1640 ?        S    22:04   0:00 avahi-daemon: running [amey-MacBookPro.local]
+avahi      890  0.0  0.0  32224   464 ?        S    22:04   0:00 avahi-daemon: chroot helper
+root       906  0.0  0.0  43560  1928 ?        Ss   22:04   0:00 /lib/systemd/systemd-logind
+root       949  0.0  0.2 356872  9456 ?        Ssl  22:04   0:00 NetworkManager
+root       953  0.0  0.0  20016   960 tty4     Ss+  22:04   0:00 /sbin/getty -8 38400 tty4
+root       957  0.0  0.0  20016   964 tty5     Ss+  22:04   0:00 /sbin/getty -8 38400 tty5
+root       964  0.0  0.0  20016   960 tty2     Ss+  22:04   0:00 /sbin/getty -8 38400 tty2
+root       965  0.0  0.0  20016   960 tty3     Ss+  22:04   0:00 /sbin/getty -8 38400 tty3
+root       969  0.0  0.0  20016   952 tty6     Ss+  22:04   0:00 /sbin/getty -8 38400 tty6
+root      1003  0.0  0.0  61364  3048 ?        Ss   22:04   0:00 /usr/sbin/sshd -D
+root      1028  0.0  0.0  75484  3400 ?        Ss   22:04   0:00 /usr/sbin/cups-browsed
+root      1047  0.0  0.0   4368   708 ?        Ss   22:04   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1050  0.0  0.0  19260   752 ?        Ss   22:04   0:00 /usr/sbin/irqbalance
+root      1053  0.0  0.1 292636  4744 ?        SLsl 22:04   0:00 lightdm
+root      1068  0.0  0.0  23656  1036 ?        Ss   22:04   0:00 cron
+mysql     1075  0.1  1.2 549976 50148 ?        Ssl  22:04   0:01 /usr/sbin/mysqld
+root      1091  0.0  0.2 295856  7940 ?        Sl   22:04   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1116  2.2  1.6 394368 64492 tty7     Ssl+ 22:04   0:21 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1119  0.0  0.1 302612  5452 ?        Sl   22:04   0:00 /usr/lib/accountsservice/accounts-daemon
+whoopsie  1123  0.0  0.1 363372  7316 ?        Ssl  22:04   0:00 whoopsie
+postgres  1175  0.0  0.4 251924 16188 ?        S    22:04   0:00 /usr/lib/postgresql/9.3/bin/postgres -D /var/lib/postgresql/9.3/main -c config_file=/etc/postgresql/9.3/main/postgresql.conf
+root      1199  0.0  0.0  30608  2632 ?        Ss   22:04   0:00 /sbin/wpa_supplicant -B -P /run/sendsigs.omit.d/wpasupplicant.pid -u -s -O /var/run/wpa_supplicant
+root      1219  0.0  0.0      0     0 ?        S    22:04   0:00 [kauditd]
+postgres  1238  0.0  0.0 251924  1884 ?        Ss   22:04   0:00 postgres: checkpointer process                                                                                              
+postgres  1239  0.0  0.0 251924  2680 ?        Ss   22:04   0:00 postgres: writer process                                                                                                    
+postgres  1240  0.0  0.0 251924  1672 ?        Ss   22:04   0:00 postgres: wal writer process                                                                                                
+postgres  1241  0.0  0.0 252800  3032 ?        Ss   22:04   0:00 postgres: autovacuum launcher process                                                                                       
+postgres  1242  0.0  0.0 107736  1820 ?        Ss   22:04   0:00 postgres: stats collector process                                                                                           
+kernoops  1332  0.0  0.0  37144  1008 ?        Ss   22:04   0:00 /usr/sbin/kerneloops
+tomcat7   1418  0.6  2.5 1914340 100844 ?      Sl   22:04   0:06 /usr/lib/jvm/java-7-openjdk-amd64/bin/java -Djava.util.logging.config.file=/var/lib/tomcat7/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djava.awt.headless=true -Xmx128m -XX:+UseConcMarkSweepGC -Djava.endorsed.dirs=/usr/share/tomcat7/endorsed -classpath /usr/share/tomcat7/bin/bootstrap.jar:/usr/share/tomcat7/bin/tomcat-juli.jar -Dcatalina.base=/var/lib/tomcat7 -Dcatalina.home=/usr/share/tomcat7 -Djava.io.tmpdir=/tmp/tomcat7-tomcat7-tmp org.apache.catalina.startup.Bootstrap start
+root      1419  0.0  0.1 170480  4048 ?        Sl   22:04   0:00 lightdm --session-child 12 19
+root      1488  0.0  0.1 239680  6980 ?        Sl   22:04   0:00 /usr/lib/upower/upowerd
+rtkit     1597  0.0  0.0 168916  1312 ?        SNl  22:04   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1903  0.0  0.0  10232  3724 ?        S    22:04   0:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-wlan0.pid -lf /var/lib/NetworkManager/dhclient-9dfb5436-bdb1-4621-aa60-2c1cf6fe83d5-wlan0.lease -cf /var/lib/NetworkManager/dhclient-wlan0.conf wlan0
+nobody    1912  0.0  0.0  35224  1540 ?        S    22:04   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1980  0.0  0.0  20016   948 tty1     Ss+  22:04   0:00 /sbin/getty -8 38400 tty1
+root      2196  0.0  0.1  78584  5668 ?        Ss   22:04   0:00 /usr/sbin/cupsd -f
+colord    2200  0.0  0.1 310996  6368 ?        Sl   22:04   0:00 /usr/lib/colord/colord
+lp        2204  0.0  0.0  63156  2244 ?        S    22:04   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+amey      2237  0.0  0.1 396468  6820 ?        Sl   22:06   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+amey      2239  0.0  0.0  40184  2580 ?        Ss   22:06   0:00 init --user
+amey      2304  0.0  0.0  10616   316 ?        Ss   22:06   0:00 ssh-agent -s
+amey      2311  0.1  0.0  41084  2596 ?        Ss   22:06   0:00 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-gGHOTYvka7
+amey      2319  0.0  0.0  22300  1148 ?        Ss   22:06   0:00 upstart-event-bridge
+amey      2324  0.0  0.1  78328  4628 ?        Ss   22:06   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+amey      2339  0.0  0.0  30784   712 ?        S    22:06   0:00 upstart-file-bridge --daemon --user
+amey      2341  0.0  0.0  22376   700 ?        S    22:06   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+amey      2343  0.0  0.0  22308   400 ?        S    22:06   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+amey      2345  0.6  0.1 450596  5536 ?        Ssl  22:06   0:05 /usr/bin/ibus-daemon --daemonize --xim
+amey      2359  0.0  0.5 823280 20064 ?        Ssl  22:06   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+amey      2362  0.2  0.7 684316 28148 ?        Ssl  22:06   0:01 /usr/lib/x86_64-linux-gnu/hud/hud-service
+amey      2365  0.0  0.1 367692  6476 ?        Ssl  22:06   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+amey      2367  0.0  0.3 740948 12096 ?        Ssl  22:06   0:00 gnome-session --session=ubuntu
+amey      2372  0.3  0.7 513864 27804 ?        Ssl  22:06   0:02 /usr/lib/unity/unity-panel-service
+amey      2373  0.0  0.0  39360  2088 ?        S    22:06   0:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+amey      2376  0.0  0.0 124912  3304 ?        Sl   22:06   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+amey      2382  0.0  0.0 196640  3164 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfsd
+amey      2387  0.0  0.1 360424  4120 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+amey      2412  0.0  0.1 295668  4308 ?        Sl   22:06   0:00 /usr/lib/ibus/ibus-dconf
+amey      2414  0.1  0.3 559896 13180 ?        Sl   22:06   0:00 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+amey      2415  0.1  0.4 489668 15844 ?        Sl   22:06   0:01 /usr/lib/ibus/ibus-ui-gtk3
+amey      2417  0.0  0.2 396412  8112 ?        Sl   22:06   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+amey      2438  0.1  0.1 219932  4132 ?        Sl   22:06   0:01 /usr/lib/ibus/ibus-engine-simple
+amey      2471  0.0  0.1 373784  6108 ?        S<l  22:06   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+amey      2477  2.4  1.6 1294064 67116 ?       Sl   22:06   0:19 compiz
+amey      2481  0.0  0.3 588972 13636 ?        Sl   22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+amey      2483  0.0  0.1 365188  6264 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+amey      2484  0.0  0.1 293752  4316 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+amey      2489  0.0  0.1 295776  4464 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+amey      2493  0.0  0.2 1164596 11088 ?       Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+amey      2495  0.0  0.2 569448  8264 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+amey      2497  0.0  0.3 456568 12184 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+amey      2502  0.0  0.1 906420  7032 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+amey      2505  0.0  0.1 178436  4924 ?        Sl   22:06   0:00 /usr/lib/dconf/dconf-service
+amey      2509  0.0  0.1 360480  5008 ?        Ssl  22:06   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+amey      2561  0.0  0.1 247280  7804 ?        Sl   22:06   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+amey      2565  0.0  0.2 410984 10436 ?        Sl   22:06   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+amey      2569  0.8  0.9 1370620 38276 ?       Sl   22:06   0:06 nautilus -n
+amey      2575  0.0  0.3 492600 13208 ?        Sl   22:06   0:00 /usr/lib/evolution/evolution-source-registry
+amey      2578  0.0  0.4 429736 16616 ?        Sl   22:06   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+amey      2632  0.0  0.4 603876 18892 ?        Sl   22:06   0:00 nm-applet
+amey      2637  0.0  0.1 311432  5924 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+amey      2651  0.0  0.0  58156  3668 ?        S    22:06   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+amey      2652  0.0  0.0  20232   936 ?        S    22:06   0:00 syndaemon -i 1.0 -t -K -R
+root      2655  0.0  0.1 386284  6296 ?        Sl   22:06   0:00 /usr/lib/udisks2/udisksd --no-debug
+amey      2710  0.0  0.0 212436  3420 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+amey      2718  0.0  1.2 1096336 48808 ?       Sl   22:06   0:00 /usr/lib/evolution/evolution-calendar-factory
+amey      2722  0.0  0.1 285960  5396 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+amey      2727  0.0  0.1 200272  4892 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+amey      2739  0.0  0.1 448040  6736 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.5 /org/gtk/gvfs/exec_spaw/0
+amey      2764  0.0  0.0 270376  3056 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.5 /org/gtk/gvfs/exec_spaw/1
+amey      2812  0.0  0.0 124880  3164 ?        Sl   22:06   0:00 /usr/lib/gvfs/gvfsd-metadata
+amey      2822  0.0  0.3 457192 12240 ?        Sl   22:06   0:00 telepathy-indicator
+amey      2830  0.0  0.2 336564  8208 ?        Sl   22:06   0:00 /usr/lib/telepathy/mission-control-5
+amey      2844  0.0  0.0 211336  3212 ?        Sl   22:06   0:00 /usr/lib/libreoffice/program/oosplash --writer
+amey      2863  0.0  0.1 363660  5544 ?        Sl   22:06   0:00 /usr/bin/zeitgeist-daemon
+amey      2869  0.0  0.2 330168  9664 ?        Sl   22:06   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+amey      2871  0.0  0.2 496296 10636 ?        Sl   22:06   0:00 zeitgeist-datahub
+amey      2885  0.0  0.0  11412   360 ?        S    22:06   0:00 /bin/cat
+amey      2891  0.3  2.7 1281676 109556 ?      Sl   22:06   0:02 /usr/lib/libreoffice/program/soffice.bin --writer --splash-pipe=5
+amey      2938  0.0  0.3 507516 13824 ?        Sl   22:07   0:00 update-notifier
+amey      3004  0.0  0.1 385272  6848 ?        Sl   22:08   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root      3012  0.0  0.0      0     0 ?        S    22:08   0:00 [kworker/0:2]
+amey      3021  2.6  1.4 830388 55644 ?        Sl   22:09   0:16 gedit /home/amey/progs2.0/rpc/processes/client.c
+amey      3042  0.7  2.4 974612 96560 ?        Sl   22:10   0:04 evince /home/amey/Desktop/averagerpc/rpc tutorial/Chapter 3 rpcgen Programming Guide (ONC+ Developer's Guide).pdf
+amey      3049  0.0  0.0 104436  2436 ?        Sl   22:10   0:00 /usr/lib/evince/evinced
+amey      3077  0.5  0.5 660132 22808 ?        Sl   22:11   0:02 gnome-terminal
+amey      3084  0.0  0.0  14824   816 ?        S    22:11   0:00 gnome-pty-helper
+amey      3085  0.0  0.1  27248  4364 pts/1    Ss+  22:11   0:00 bash
+amey      3545  0.0  0.1  27156  4160 pts/11   Ss   22:13   0:00 bash
+root      3632  0.0  0.0      0     0 ?        S    22:15   0:00 [kworker/0:0]
+root      3663  0.0  0.0      0     0 ?        S    22:16   0:00 [kworker/u16:1]
+amey      3731  0.0  0.0  22644  1308 pts/11   R+   22:19   0:00 ps aux
+amey      3732  0.0  0.0  27156  2584 pts/11   D+   22:19   0:00 bash
